@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "311606563470",
+    "project_id": "rohinixerox-f6b3a",
+    "storage_bucket": "rohinixerox-f6b3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311606563470:android:5eeaed3c791fb887622fdf",
+        "android_client_info": {
+          "package_name": "com.example.rohini_xerox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311606563470-qn00ef7idi8a0m7evsg6lcqfvlofbp4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohini_xerox",
+            "certificate_hash": "9321ef4825eed6daa8eccdd68db19a6e3f850c8a"
+          }
+        },
+        {
+          "client_id": "311606563470-988di0cpe149psit435v14vpjq2h40o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZSKf-gqUJSkvBzc58ftGXQcSFpacYRfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311606563470-988di0cpe149psit435v14vpjq2h40o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311606563470-3ju5ubhriff8e938monqotd7tlhjr7d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rohiniXerox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
